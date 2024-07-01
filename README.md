@@ -3,7 +3,7 @@
 
 <h1 align="center"></h1>
 
-<img align="left" height="150px" src="  " />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=MSalman6&show_icons=true&theme=merko&count_private=true" />
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSalman6&layout=compact&theme=merko&count_private=true" />
 
 <img height="150px" />
